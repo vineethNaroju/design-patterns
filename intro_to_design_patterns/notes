@@ -1,0 +1,7 @@
+Duck can fly, quack but not all ducks can
+Rubber duck can quck but can't fly
+Decoy duck can neither fly nor quack
+
+* Separate out aspects that vary from static ones
+* Program to an interface and not to an implementation
+* Favor composition over interface
