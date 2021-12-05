@@ -1,2 +1,0 @@
-Add lombok, spring web, spring data jpa, h2 database in dependencies and use maven
-$ mvn clean
